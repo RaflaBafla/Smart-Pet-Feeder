@@ -23,4 +23,18 @@ The system has several functions:
 * 42ohm buzzer ac / 2khz 3v 5v 12v
 * RDM6300 125Khz RFID Reader Module
 
+# Diagrams
+Original Block Diagram
+
+<img width="874" height="642" alt="image" src="https://github.com/user-attachments/assets/b5cf1a11-3898-4165-873b-d2fb25d35404" />
+
+Electrical Diagram
+
+<img width="1164" height="818" alt="image" src="https://github.com/user-attachments/assets/19095e8e-b652-425d-b6f5-493660c37ec8" />
+
+# Work Logs
+
+# License
+This repository is under MIT license, meaning you can do anything you want with it. If you want to replicate this for a school project of your own, I'm not responsible for any accusations of plagiarism (especially if you live in Israel and want to replicate this for a 5 units electronics project like me. Be careful.)
+
 
