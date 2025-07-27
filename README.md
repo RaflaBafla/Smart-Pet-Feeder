@@ -1,5 +1,5 @@
 # Smart-Pet-Feeder (Version 1/ Prototype)
-This is a documentation for my Final ECE (Electrical and Computer engineering) High School Project, Which is The Smart Pet feeder. This project also serves as a prototype for a newer, upgraded version of The Smart Pet Feeder that I am working on.
+This is a documentation for my Final ECE (Electrical and Computer engineering) High School Project, Which is The Smart Pet feeder.
 
 # Introduction for The Smart Pet Feeder
 First of all, this project is a system that automizes the process of feeding pets and track habitual consumption behaviours of pets. 
