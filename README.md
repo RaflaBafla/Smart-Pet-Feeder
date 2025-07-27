@@ -1,4 +1,4 @@
-# Smart-Pet-Feeder (Version 1/ Prototype)
+# Smart-Pet-Feeder
 This is a documentation for my Final ECE (Electrical and Computer engineering) High School Project, Which is The Smart Pet feeder.
 
 # Introduction for The Smart Pet Feeder
